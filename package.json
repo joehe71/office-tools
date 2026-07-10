@@ -249,6 +249,8 @@
     "categories": [
       "productivity"
     ],
+    "repo": "joehe71/office-tools",
+    "npm": "@joehe71/office-tools",
     "permissions": {
       "filesystem": "readwrite",
       "network": false,
